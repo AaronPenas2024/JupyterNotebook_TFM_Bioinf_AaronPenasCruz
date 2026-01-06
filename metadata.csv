@@ -1,0 +1,32 @@
+ParticipantID,Gender,Height_cm,Weight_kg,Age_yrs,Leg,Pathology
+1,Male,1.82,87,27,left,meniscus
+2,Male,1.82,118,47,left,meniscus
+3,Female,1.52,83,56,left,osteoarthritis
+4,Female,1.6,83,48,right,osteoarthritis
+5,Male,1.81,85,31,right,tendonitis
+6,Female,1.68,75,54,left,osteoarthritis
+7,Female,1.62,90,63,right,osteoarthritis
+8,Male,1.87,105,43,right,meniscus
+9,Female,1.68,85,55,right,osteoarthritis
+10,Female,1.64,94,51,right,meniscus
+11,Male,1.97,108,49,right,cruciate ligament
+12,Male,1.75,80,50,right,meniscus
+13,Female,1.75,90,40,right,meniscus
+14,Female,1.56,72,62,right,osteoarthritis
+15,Male,1.77,84,38,right,meniscus
+16,Female,1.75,95,55,left,ligament rupture
+17,Female,1.72,72,58,left,osteoarthritis
+18,Male,2.0,146,33,left,meniscus
+19,Male,1.75,65,18,right,cruciate ligament
+20,Female,1.57,84,51,left,osteoarthritis
+21,Female,1.62,57,27,right,meniscus
+22,Male,1.7,86,41,right,osteoarthritis
+23,Female,1.64,85,51,right,meniscus
+24,Female,1.69,82,51,left,osteoarthritis
+25,Male,1.85,95,29,right,meniscus
+26,Female,1.62,59,42,right,osteoarthritis
+27,Female,1.66,75,68,left,osteoarthritis
+28,Female,1.65,70,53,right,osteoarthritis
+29,Male,1.82,84,41,right,meniscus
+30,Male,1.75,90,47,left,osteoarthritis
+31,Female,1.57,69,56,right,osteoarthritis
