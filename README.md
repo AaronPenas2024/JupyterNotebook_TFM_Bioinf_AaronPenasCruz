@@ -1,6 +1,6 @@
-# TFM – Evaluación automática de la ejecución de ejercicios de rehabilitación mediante sensores wearables
+# TFM – Clasificación de la calidad de ejecución en rehabilitación de rodilla a partir de señales sEMG e IMU (KneE-PAD)
 
-Este repositorio contiene el código fuente y los datos procesados utilizados en el Trabajo Final de Máster desarrollado en el Máster Universitario en Ingeniería Biomédica (UOC).
+Este repositorio contiene el código fuente y los datos procesados utilizados en el Trabajo Final de Máster desarrollado en el Máster Universitario en Bioinformática y Bioestadística (UOC).
 
 El objetivo del proyecto es evaluar la corrección en la ejecución de ejercicios de rehabilitación a partir de señales de electromiografía de superficie (sEMG) y unidades de medición inercial (IMU), utilizando modelos de aprendizaje automático supervisado y una estrategia de validación independiente por sujeto.
 
